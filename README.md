@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mathewmarquez
-- 👀 I’m interested in mkaing a career change that fits me best.
+- 👀 I’m interested in making a career change that fits me best.
 - 🌱 I’m currently learning Front developer code and hoping to understand more as I continue my growth.
 - 📫 
 

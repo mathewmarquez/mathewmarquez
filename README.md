@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @mathewmarquez
+- 👋 Hi, I’m Mat!
 - 👀 I’m interested in making a career change that fits me best.
-- 🌱 I’m currently learning Front developer code and hoping to understand more as I continue my growth.
+- 🌱 I’m currently creating projects and learning to use Github more often when learning.
 - 📫 
 
 <!---

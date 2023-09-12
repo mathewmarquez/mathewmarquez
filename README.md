@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mat!
-- 👀 I’m interested in making a career change that fits me best.
-- 🌱 I’m currently creating projects and learning to use Github more often when learning.
-- 📫 
+- 👀 Determined to be a better developer and make this a career.
+- 🌱 I’m currently creating projects, brainstorming ideas for layouts, and detailing each aspect accordingly.
+
 
 <!---
 mathewmarquez/mathewmarquez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

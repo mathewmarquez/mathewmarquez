@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mat!
-- 👀 Determined to be a better developer and make this a career.
-- 🌱 I’m currently creating projects, brainstorming ideas for layouts, and detailing each aspect accordingly.
+- 👀 Determined to be a great Web Developer and making this a career.
+- 🌱 I’m currently creating projects, brainstorming ideas for layouts/concepts, and detailing each aspect accordingly.
 
 
 <!---

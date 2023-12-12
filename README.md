@@ -1,5 +1,5 @@
 - Hi, I’m Mathew!
-- 👀 Determined to be a great Web Developer and making this a career.
+- 👀 Determined to be a great Web Developer.
 - 🌱 I’m currently creating projects, brainstorming ideas for layouts/concepts, and detailing each aspect accordingly.
 - Continuously improving my coding skills and mastering both client-side and server-side development to adapt to an ever growing field.
 - Additionally, cultivating soft skills, networking within the development community, and maintaining an adaptive mindset for continuous learning.

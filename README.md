@@ -19,11 +19,3 @@ Welcome to my GitHub! I'm on a journey to become a proficient Web Developer, div
 If you're interested in collaborating or if you have any questions about my projects, feel free to reach out through [GitHub](https://github.com/mathewmarquez) or [LinkedIn](https://linkedin.com/in/mathew-marquez).
 
 Thank you for stopping by!
-```
-
-This README version:
-- Uses headers to organize sections clearly.
-- Includes emojis to make the text more visually appealing and friendly.
-- Offers a more personal touch by inviting readers to connect.
-- Presents information in a more dynamic and engaging way.
-- 

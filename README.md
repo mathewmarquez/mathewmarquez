@@ -16,6 +16,6 @@ Welcome to my GitHub! I'm on a journey to become a proficient Web Developer, div
 
 ## 🤝 Let's Connect
 
-If you're interested in collaborating or if you have any questions about my projects, feel free to reach out through [GitHub](https://github.com/mathewmarquez) or [LinkedIn](https://linkedin.com/in/mathew-marquez).
+If you're interested in collaborating or if you have any questions about my projects, feel free to reach out through [LinkedIn](https://linkedin.com/in/mathew-marquez).
 
 Thank you for stopping by!

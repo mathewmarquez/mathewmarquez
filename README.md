@@ -1,6 +1,6 @@
 # Hi, I'm Mathew! 👋
 
-Welcome to my GitHub! I'm on a journey to become a proficient Web Developer, diving into both client-side and server-side technologies. Here's a bit about my developer journey and what I'm currently working on:
+Welcome to my GitHub! I'm on a career path towards Full Stack Development, diving into both client-side and server-side technologies. Here's a bit about my developer journey and what I'm currently working on:
 
 ## 🌱 What I'm Doing
 
